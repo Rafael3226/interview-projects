@@ -5,5 +5,11 @@ import ApiDataContext from "../context";
 export default function PostList() {
   const { posts } = useContext(ApiDataContext);
 
-  return posts.map((p) => <Post key={p.id} {...(p as PostProps)} />);
+  return (
+    <section className="flex flex-wrap justify-center px-4">
+      {posts.map((p) => (
+        <Post key={p.id} {...(p as PostProps)} />
+      ))}
+    </section>
+  );
 }
