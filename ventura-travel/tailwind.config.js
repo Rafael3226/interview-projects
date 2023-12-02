@@ -9,6 +9,10 @@ export default {
   ],
   theme: {
     extend: {},
+    colors: {
+      transparent: "transparent",
+      "gray-custom": "#546982",
+    },
   },
   plugins: [flowbite],
 };
