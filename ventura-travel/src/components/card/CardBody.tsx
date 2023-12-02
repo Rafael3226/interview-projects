@@ -8,22 +8,22 @@ export default function CardBody({ children }: { children: ReactNode }) {
     setIsBodyOpen((s) => !s);
   }
 
+  const buttonMessage = isBodyOpen ? "See Less..." : "See More...";
+
   return (
     <>
       <p
-        className={`mb-2 font-normal text-gray-700 dark:text-gray-400 overflow-hidden overflow-ellipsis ${
+        className={`font-normal text-gray-700 dark:text-gray-400 overflow-hidden overflow-ellipsis ${
           isBodyOpen ? "" : "whitespace-nowrap max-h-6"
         }`}
       >
         {children}
       </p>
       <button
-        onClick={(e) => toggleSeeMore(e)}
-        className={`inline-flex items-center font-medium ${
-          isBodyOpen ? "" : "text-blue-600"
-        } hover:text-blue-800 dark:text-blue-500 dark:hover:text-blue-700`}
+        onClick={toggleSeeMore}
+        className="inline-flex items-center font-medium text-blue-600 hover:text-blue-800 dark:text-blue-500 dark:hover:text-blue-700"
       >
-        See more...
+        {buttonMessage}
       </button>
     </>
   );
