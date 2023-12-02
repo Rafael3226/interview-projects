@@ -13,7 +13,7 @@ export default function UserAvatar({
     <div
       className={`flex items-center gap-4${className ? "" : " " + className}`}
     >
-      <img className="w-10 h-10 rounded-full" src={img} alt="User Avatar" />
+      <img className="w-8 h-8 rounded-full" src={img} alt="User Avatar" />
       <div className="font-medium dark:text-white">
         <div>{name}</div>
       </div>
