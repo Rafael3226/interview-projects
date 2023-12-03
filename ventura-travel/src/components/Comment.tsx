@@ -1,5 +1,7 @@
 import { CommentType } from "../core/types";
-import { Card, CardBody, CardTitle } from "./card";
+import CollapsibleText from "./CollapsibleText";
+import Title from "./Title";
+import Card from "./Card";
 
 type CommentProps = {
   body: CommentType["body"];
@@ -9,8 +11,8 @@ type CommentProps = {
 export default function Comment({ name, body }: CommentProps) {
   return (
     <Card>
-      <CardTitle>{name}</CardTitle>
-      <CardBody>{body}</CardBody>
+      <Title>{name}</Title>
+      <CollapsibleText>{body}</CollapsibleText>
     </Card>
   );
 }
