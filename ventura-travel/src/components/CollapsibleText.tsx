@@ -1,6 +1,6 @@
 import { useState, MouseEvent, ReactNode } from "react";
 
-export default function CardBody({ children }: { children: ReactNode }) {
+export default function CollapsibleText({ children }: { children: ReactNode }) {
   const [isBodyOpen, setIsBodyOpen] = useState(false);
 
   function toggleSeeMore(e: MouseEvent<HTMLButtonElement>) {
@@ -25,6 +25,7 @@ export default function CardBody({ children }: { children: ReactNode }) {
       >
         {buttonMessage}
       </button>
+      {}
     </>
   );
 }
