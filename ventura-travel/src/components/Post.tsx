@@ -24,10 +24,10 @@ export default function Post({ id, title, body, userId }: PostProps) {
       <Title>{title}</Title>
       <CollapsibleText>
         {body}
-        <p className="italic">
+        <span className="italic">
           <span>{"Comment: " + comments.length}</span>
           <span className="float-right">{"Contact: " + user?.email}</span>
-        </p>
+        </span>
       </CollapsibleText>
       <CommentList comments={comments} />
     </Card>

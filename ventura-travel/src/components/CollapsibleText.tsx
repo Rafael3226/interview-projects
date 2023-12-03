@@ -25,7 +25,6 @@ export default function CollapsibleText({ children }: { children: ReactNode }) {
       >
         {buttonMessage}
       </button>
-      {}
     </>
   );
 }
