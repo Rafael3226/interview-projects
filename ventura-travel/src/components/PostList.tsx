@@ -12,9 +12,6 @@ export default function PostList() {
   }
 
   const postRenderList = [...posts].slice(0, limit);
-  console.log(limit);
-
-  console.log(postRenderList);
 
   return (
     <section>
