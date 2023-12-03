@@ -24,6 +24,7 @@ export default function Post({ id, title, body, userId }: PostProps) {
       <Title>{title}</Title>
       <CollapsibleText>
         {body}
+        <br />
         <span className="italic">
           <span>{"Comment: " + comments.length}</span>
           <span className="float-right">{"Contact: " + user?.email}</span>

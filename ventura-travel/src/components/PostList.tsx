@@ -15,7 +15,7 @@ export default function PostList() {
 
   return (
     <section>
-      <div className="flex flex-wrap justify-center px-4">
+      <div className="mt-2 px-2 md:px-8 lg:px-32 xl:px-64">
         {postRenderList.map((p) => (
           <Post key={p.id} {...(p as PostProps)} />
         ))}

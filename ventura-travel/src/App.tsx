@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <NavBar />
-      <div className="mx-auto w-full pt-3 pb-3">
+      <div className="">
         <PostList />
       </div>
     </>
