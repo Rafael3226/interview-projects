@@ -1,7 +1,7 @@
 import { CommentType } from "../core/types";
 import CollapsibleText from "./CollapsibleText";
-import Title from "./Title";
 import Card from "./Card";
+import SubTitle from "./SubTitle";
 
 type CommentProps = {
   body: CommentType["body"];
@@ -11,7 +11,7 @@ type CommentProps = {
 export default function Comment({ name, body }: CommentProps) {
   return (
     <Card>
-      <Title>{name}</Title>
+      <SubTitle>{name}</SubTitle>
       <CollapsibleText>{body}</CollapsibleText>
     </Card>
   );
