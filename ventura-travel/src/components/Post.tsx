@@ -25,9 +25,9 @@ export default function Post({ id, title, body, userId }: PostProps) {
       <CollapsibleText>
         {body}
         <br />
-        <span className="italic">
-          <span>{"Comment: " + comments.length}</span>
-          <span className="float-right">{"Contact: " + user?.email}</span>
+        <span className="italic flex flex-col justify-between sm:flex-row">
+          <span>{`Comment: ${comments.length}`}</span>
+          <span className="sm:float-right">{"Contact: " + user?.email}</span>
         </span>
       </CollapsibleText>
       <CommentList comments={comments} />
