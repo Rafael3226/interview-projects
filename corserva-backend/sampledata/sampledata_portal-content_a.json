@@ -1,0 +1,26 @@
+[
+  {
+    "availability" : "show",
+    "contentId" : "C69tuX8McYkjpyT",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "document",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "portalId" : "PhnqWN6hUg",
+    "publishEndAt" : "",
+    "publishStartAt" : ""
+  },
+  {
+    "availability" : "show",
+    "contentId" : "pnRMgdJKJ0BAD4E",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "portalId" : "PhnqWN6hUg",
+    "publishEndAt" : "",
+    "publishStartAt" : ""
+  }
+]

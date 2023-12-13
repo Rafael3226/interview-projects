@@ -1,0 +1,84 @@
+[
+  {
+    "availability" : "show",
+    "contentId" : "C69tuX8McYkjpyT",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "document",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "portalId" : "PhnqWN6hUg",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+  },
+  {
+    "availability" : "show",
+    "contentId" : "pnRMgdJKJ0BAD4E",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "portalId" : "PhnqWN6hUg",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+
+  },
+  {
+    "availability" : "show",
+    "contentId" : "WNF0QRiM4ZgiBFr",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "portalId" : "JC8UbVBFJQ",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+
+  },
+  {
+    "availability" : "show",
+    "contentId" : "bJdCYUwUJ4Q3eB6",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "portalId" : "JC8UbVBFJQ",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+
+  },
+  {
+    "availability" : "show",
+    "contentId" : "DPXAm7LRNaxj",
+    "contentSetId" : "fDmDMMx3R7",
+    "contentType" : "digitalasset",
+    "formatType" : "document",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "portalId" : "JC8UbVBFJQ",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+
+  },
+  {
+    "availability" : "show",
+    "contentId" : "QjwGA8geKb7p",
+    "contentSetId" : "JC8UbVBFJQ",
+    "contentType" : "digitalasset",
+    "formatType" : "document",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "portalId" : "JC8UbVBFJQ",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+  }
+]

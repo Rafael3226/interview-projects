@@ -1,0 +1,122 @@
+[
+  {
+    "availability" : "hide",
+    "contentId" : "pnRMgdJKJ0BAD4E",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "AUVErKrCJE"
+  },
+  {
+    "availability" : "hide",
+    "contentId" : "WNF0QRiM4ZgiBFr",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "AUVErKrCJE"
+  },
+  {
+    "availability" : "hide",
+    "contentId" : "bJdCYUwUJ4Q3eB6",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "AUVErKrCJE"
+  },
+  {
+    "availability" : "hide",
+    "contentId" : "ZUh1DCsnQs2G3hU",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "document",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "AUVErKrCJE"
+  },
+  {
+    "availability" : "show",
+    "contentId" : "neU69ujgsFUpFje",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "document",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "AUVErKrCJE"
+  },
+  {
+    "availability" : "hide",
+    "contentId" : "uh8Akq7JDqd8ZmP",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "AUVErKrCJE"
+  },
+  {
+    "availability" : "hide",
+    "contentId" : "ND2yVVqB5fcZ5ob",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "document",
+    "locked" : "true",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+  },
+  {
+    "availability" : "show",
+    "contentId" : "DebQX6dKGiKw8yb",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "document",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+  },
+  {
+    "availability" : "hide",
+    "contentId" : "um4K52D9YWS2dYQ",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+  },
+  {
+    "availability" : "hide",
+    "contentId" : "V6fGgJeJc2LffyX",
+    "contentSetId" : "WHEKxCFDUQ",
+    "contentType" : "digitalasset",
+    "formatType" : "video",
+    "locked" : "false",
+    "organizationId" : "2Wro7vxhL62Z",
+    "publishEndAt" : "",
+    "publishStartAt" : "",
+    "templateId" : "xePkTFXcCE"
+  }
+]
